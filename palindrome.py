@@ -49,8 +49,8 @@ def test_palindrome(string):
 
 #test_palindrome()
 #assert test_palindrome("A man, a plan, a canal: Panama") == True #worked
-#assert test_palindrome("") == True #need work
-#assert test_palindrome(" ") == True #need work
+#assert test_palindrome("") == True #worked
+#assert test_palindrome(" ") == True #worked
 
 #assert test_palindrome("0P0") == True #worked
 #assert test_palindrome("a") == True #worked
